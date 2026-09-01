@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "ATLAS",
+    "slug": "atlas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#020D34"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
